@@ -1,8 +1,9 @@
 Filosofia DevOps e Scrum
-Aprender, desenvolver, compartilhar a informação e notar que outro, fez o mesmo em menos tempo, com sua ajuda.
+
+Objetivo coletivo: Aprender, desenvolver, compartilhar a informação e notar que outro, fez o mesmo em menos tempo, com sua ajuda.
+Objetivo individual: Estudar, Certificar, Aplicar no dia-a-dia e torna-se Referencia
 
 Desafio: Exam 70-487
-Estudar, Certificar, Aplicar e torna-se Referencia
 
 Estratégia
 
